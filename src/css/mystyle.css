@@ -1,0 +1,19 @@
+
+
+.heading{
+    margin-top: 15px    
+}
+
+body{
+    margin-top:30px
+}
+
+.my-control:focus {
+    color: #495057;
+    background-color: transparent;
+    border-color:skyblue !important;
+    outline: 0
+}
+.my-control{
+background-image: linear-gradient(0deg,skyblue 2px,rgba(0,150,136,0) 0),linear-gradient(0deg,rgba(0,0,0,.26) 1px,transparent 0);
+}
